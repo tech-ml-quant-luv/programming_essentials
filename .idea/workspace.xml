@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6801f834-afea-4d54-97be-111d1604b317" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_essentials/multithreading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_essentials/theory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_essentials/multiprocessing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_essentials/multithreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_essentials/multithreading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,7 @@
       <workItem from="1769068223392" duration="547000" />
       <workItem from="1769147057974" duration="3862000" />
       <workItem from="1769280424031" duration="1509000" />
-      <workItem from="1770131249383" duration="1866000" />
+      <workItem from="1770131249383" duration="2788000" />
     </task>
     <servers />
   </component>
@@ -125,7 +125,7 @@
     <SUITE FILE_PATH="coverage/Programming_essentials$strings_advanced.coverage" NAME="strings_advanced Coverage Results" MODIFIED="1768999645825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
     <SUITE FILE_PATH="coverage/Programming_essentials$basic_star_patterns.coverage" NAME="basic_star_patterns Coverage Results" MODIFIED="1769063524533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/patterns" />
     <SUITE FILE_PATH="coverage/Programming_essentials$strings.coverage" NAME="strings Coverage Results" MODIFIED="1770133223251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
-    <SUITE FILE_PATH="coverage/Programming_essentials$multithreading.coverage" NAME="multithreading Coverage Results" MODIFIED="1770133240065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_essentials" />
+    <SUITE FILE_PATH="coverage/Programming_essentials$multithreading.coverage" NAME="multithreading Coverage Results" MODIFIED="1770134146778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_essentials" />
     <SUITE FILE_PATH="coverage/Programming_essentials$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1769066085676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/programming_skills" />
     <SUITE FILE_PATH="coverage/Programming_essentials$day3.coverage" NAME="day3 Coverage Results" MODIFIED="1769281211806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/programming_skills" />
   </component>
