@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6801f834-afea-4d54-97be-111d1604b317" name="Changes" comment="" />
+    <list default="true" id="6801f834-afea-4d54-97be-111d1604b317" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOPS_in_python/OOPS_angela_yu/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS_in_python/OOPS_angela_yu/classes_and_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_in_python/OOPS_angela_yu/classes_and_objects.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +38,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basic_star_patterns.executor": "Run",
     "Python.classes_and_object.executor": "Run",
+    "Python.classes_and_objects.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.control_flow.executor": "Run",
     "Python.day1.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.day3.executor": "Run",
     "Python.decorators.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.multithreading.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.strings_advanced.executor": "Run",
